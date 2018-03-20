@@ -1,0 +1,58 @@
+.carousel-img1{
+    background-image:linear-gradient(rgba(0, 0, 0, 0.616), rgba(0, 0, 0, 0.623)), url('../img/image1.jpg');
+    background-size: cover;
+}
+.carousel-img2{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.616), rgba(0, 0, 0, 0.623)),url('../img/image2.jpg');
+    background-size: cover;
+}
+.carousel-img3{
+    background-image:linear-gradient(rgba(0, 0, 0, 0.616), rgba(0, 0, 0, 0.623)), url('../img/image3.jpg');
+    background-size: cover;
+}
+
+.carousel-item{
+    height:450px;
+}
+
+#home-heading{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.781), rgba(0, 0, 0, 0.849)), url('../img/lights.jpg');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    height: 260px;
+}
+
+#info-section{
+    height: 320px;
+}
+
+#video-play{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.781), rgba(0, 0, 0, 0.849)), url('../img/media.jpg');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    height: 180px
+}
+
+.header{
+    background-image: url('../img/image1.jpg');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position:-360px;
+    height: 160px
+}
+
+.about{
+    margin-top:-30px;
+}
+
+.contactHeader{
+    background-image: url('../img/image1.jpg');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position:-260px;
+    height: 160px
+}
+
+#main-footer{
+    background-color: #000
+}
